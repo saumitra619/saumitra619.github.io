@@ -2,18 +2,18 @@ module.exports = {
   email: 'saumitra619@gmail.com',
   siteTitle: 'Saumitra Tomar | Software Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at TCS  who loves learning new things.',
+    'Saumitra Tomar is a Software Engineer at TCS  who loves learning new things.',
   siteKeywords:
     '',
   siteUrl: 'https://saumitratomar.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-45666519-2',
   googleVerification: '',
   name: 'Saumitra Tomar',
   location: 'India',
   email: 'saumitra619@gmail.com',
   github: 'https://github.com/saumitra619',
-  twitterHandle: '',
+  twitterHandle: '@xyz',
   socialMedia: [
     {
       name: 'GitHub',
