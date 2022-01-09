@@ -1,7 +1,7 @@
 ---
 date: '2016-07-03'
 title: 'Software Developer'
-company: 'MobiWeb Technologies'
+company: 'MobiWeb'
 location: 'Indore, In'
 range: 'July - November 2017'
 url: 'https://mobiwebtech.com/'

@@ -1,7 +1,7 @@
 ---
 date: '2016-02-14'
 title: 'NodeJS Developer'
-company: 'FlairIT solutions'
+company: 'FlairIT'
 location: 'Indore, In'
 range: 'Febuary - June 2016'
 url: 'http://www.flair-solution.com//'

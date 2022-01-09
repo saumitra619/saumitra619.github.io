@@ -1,7 +1,7 @@
 ---
 date: '2018-07-12'
 title: 'Sr.Software Engineer'
-company: 'Yashco Systems'
+company: 'Yashco'
 location: 'Indore, In'
 range: 'July - October 2021'
 url: 'https://yashco.com/'
