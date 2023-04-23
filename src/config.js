@@ -20,21 +20,9 @@ module.exports = {
       url: 'https://github.com/saumitra619',
     },
     {
-      name: 'Instagram',
-      url: '',
-    },
-    {
-      name: 'Twitter',
-      url: '',
-    },
-    {
       name: 'Linkedin',
-      url: '',
-    },
-    {
-      name: 'Codepen',
-      url: '',
-    },
+      url: 'https://www.linkedin.com/in/saumitra-tomar/',
+    }
   ],
 
   navLinks: [
