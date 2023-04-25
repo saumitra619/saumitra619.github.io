@@ -22,6 +22,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/saumitra-tomar/',
+    },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/bchiang7',
     }
   ],
 
