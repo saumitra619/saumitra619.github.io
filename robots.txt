@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://saumitratomar.github.io/sitemap.xml
+Sitemap: https://saumitratomar.github.io/sitemap-index.xml
 Host: https://saumitratomar.github.io
