@@ -7,7 +7,7 @@ module.exports = {
     '',
   siteUrl: 'https://saumitratomar.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-2',
   googleVerification: '',
   name: 'Saumitra Tomar',
   location: 'India',
@@ -24,9 +24,13 @@ module.exports = {
       url: 'https://www.linkedin.com/in/saumitra-tomar/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    }
+      name: 'LeetCode',
+      url: 'https://leetcode.com/saumitra619/',
+    },
+    {
+      name: 'Kaggle',
+      url: 'https://www.kaggle.com/saumitratomar',
+    },
   ],
 
   navLinks: [
